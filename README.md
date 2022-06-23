@@ -4,3 +4,5 @@ This project was made by using Unity version 2019.3.2f1 (LTS) with the Andriod B
 and the Windws Build Support modules and is designed for Oculus Quest and Oculus Quest 2 standalones. Using another version WILL lead to many problems.
 
 The project needs a free space on disc of 25 GB 
+
+The project is uploaded as a ZIP do to the high amount of files that uses.
